@@ -1,0 +1,2 @@
+- a. Read the erroe message and got a clue.
+- b. Encountered an issue where it displayed "No such file or directory exists" even after changing the file name. Posted the problem on slack and got a response from an senior who encountered the same problem and he told me to change the file name and use the complete path name with '//' and resolved the issue (C://Users//Bhanu Prakash//code//wtfiswronghere//05_challenge//file.txt)
