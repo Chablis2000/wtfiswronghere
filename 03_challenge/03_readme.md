@@ -1,0 +1,2 @@
+- a. Read the TypeError message and got the clue.
+- b. Removed single qoutes for the argument of range() in line 26.
