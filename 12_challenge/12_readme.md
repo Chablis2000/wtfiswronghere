@@ -1,0 +1,2 @@
+- a. saw the error image and got the clue.
+- b. Solved it by changing the second valiable from 4 to 5. 
