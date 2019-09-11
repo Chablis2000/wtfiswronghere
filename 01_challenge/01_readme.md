@@ -1,0 +1,2 @@
+- a. Read the SyntaxError message and got the clue.
+- b. Added another '=' in the elif condition statement so it checks for the condition and doesnt give any error. 
