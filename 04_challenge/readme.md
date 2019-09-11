@@ -1,0 +1,2 @@
+- a. Read the IndentationError message and got the clue.
+- b. Solved it by indenting it correctly. 
