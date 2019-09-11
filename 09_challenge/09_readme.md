@@ -1,0 +1,2 @@
+- a. Read the missing message and got the clue.
+- b. Solved it by changing the range from 6 to 1. 
