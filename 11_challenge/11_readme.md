@@ -1,0 +1,2 @@
+- a. Got the clue by referring to previous programs.
+- b. Solved it by interchanging the if and elif conditions. 
