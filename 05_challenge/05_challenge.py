@@ -11,16 +11,16 @@ For all integers between 1 and 99 (include both):
 """
 
 def fizzbuzz(max_num):
-    "This method implements FizzBuzz"
-    
+    "This method implements FizzBuzz"    
     # adding some redundant declarations on purpose
     # we will make our script 'tighter' in one of coming exercises
+    
     three_mul = 'fizz'
     five_mul = 'buzz'
-    with open('mifile.txt','r') as f:
-        print 'i have created'
+    with open('C://Users//Bhanu Prakash//code//wtfiswronghere//05_challenge//file.txt','r') as f:
+        print('i have created')
         num1 = int(f.readline())   
-        num2=int(f.readline())        
+        num2 = int(f.readline())        
         max_num = int(f.readline())
          
     # Google for 'range in python' to see what it does
