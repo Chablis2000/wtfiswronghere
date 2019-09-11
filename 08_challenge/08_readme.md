@@ -1,0 +1,2 @@
+- a. Read the Error message and got the clue.
+- b. Solved it by adding 'self' argument in line 15.
