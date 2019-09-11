@@ -1,0 +1,2 @@
+- a. Read the TypeError message and got the clue.
+- b. Added an argument 100 in fizzbuzz()
